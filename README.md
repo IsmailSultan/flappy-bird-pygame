@@ -3,4 +3,4 @@
   
 <h2>Installation:</h2>
 run the following command before running the index file
-> pip intall pygame
+<blockquote><p>pip install pygame</p></blockquote>
